@@ -1,0 +1,13 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "project nodeJs",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "Henrique Felix",
+  "license": "ISC"
+}
